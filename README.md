@@ -28,6 +28,7 @@
 <div align="center">
   <img
     height=165
+    width=40%
     align="center"
     alt="GitHub Stats"
     src="https://github-readme-stats.vercel.app/api/?username=Douglas-Rochaa&show_icons=true&count_private=true&rank_icon=github&hide_border=true&theme=tokyonight&font=Iosevka"
