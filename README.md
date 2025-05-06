@@ -38,7 +38,7 @@
     />
   </div>
 
-  <br>
+  
 
   <div align="center">
     <img
@@ -47,7 +47,7 @@
     />
   </div>
 
-  <br>
+  
 
   <div align="center">
     <img
