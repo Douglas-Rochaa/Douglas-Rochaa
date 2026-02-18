@@ -27,14 +27,14 @@
 
   <div align="center">
     <img
-      height="165"
+      height="140"
       alt="GitHub Stats"
-      src="https://github-readme-stats.vercel.app/api/?username=Douglas-Rochaa&show_icons=true&count_private=true&rank_icon=github&hide_border=true&theme=tokyonight&font=Iosevka"
+      src="https://github-stats-extended.vercel.app/api/?username=Douglas-Rochaa&show_icons=true&count_private=true&rank_icon=github&hide_border=true&theme=tokyonight&font=Iosevka"
     />
     <img
-      height="165"
+      height="170"
       alt="Top Language"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Douglas-Rochaa&layout=compact&hide_border=true&font=Iosevka&langs_count=16&theme=tokyonight"
+      src="https://github-stats-extended.vercel.app/api/top-langs/?username=Douglas-Rochaa&layout=compact&hide_border=true&font=Iosevka&langs_count=16&theme=tokyonight"
     />
   </div>
 
@@ -51,7 +51,7 @@
 
   <div align="center">
     <img
-      height="165"
+      height="155"
       alt="GitHub Streak"
       src="https://github-readme-streak-stats.herokuapp.com?user=Douglas-Rochaa&theme=tokyonight&hide_border=true&card_width=885"
     />
